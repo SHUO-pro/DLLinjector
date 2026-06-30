@@ -20,7 +20,7 @@ A lightweight Windows DLL injection tool that uses `CreateRemoteThread` and `Loa
 
 
 
-**This tool is intended for security research, malware analysis, and educational purposes only.\*\*
+**This tool is intended for security research, malware analysis, and educational purposes only.**
 
 
 
