@@ -1,4 +1,4 @@
-\# DLLinjector
+# DLLinjector
 
 
 
@@ -6,35 +6,35 @@ A lightweight Windows DLL injection tool that uses `CreateRemoteThread` and `Loa
 
 
 
-\## Features
+## Features
 
-\- Inject any DLL into a running Windows process
+- Inject any DLL into a running Windows process
 
-\- Supports Unicode (wide-character) DLL paths
+- Supports Unicode (wide-character) DLL paths
 
-\- Lightweight and fast
-
-
-
-\## Disclaimer
+- Lightweight and fast
 
 
 
-\*\*This tool is intended for security research, malware analysis, and educational purposes only.\*\*
+## Disclaimer
 
 
 
-\- Do not use this tool on systems without explicit permission from the owner.
-
-\- The author is not responsible for any misuse or damage caused by this software.
+**This tool is intended for security research, malware analysis, and educational purposes only.\*\*
 
 
 
-\## Usage
+- Do not use this tool on systems without explicit permission from the owner.
+
+- The author is not responsible for any misuse or damage caused by this software.
+
+
+
+## Usage
 
 
 
 Build and execute:
 
-dllinject.exe <ProcessID> <PathToDLL>
+dllinject.exe [ProcessID] [PathToDLL]
 
