@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dllinject.vcxproj" Id="dcbf4818-540f-47a1-acbc-9eacc843779c" />
+</Solution>
